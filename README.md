@@ -1,4 +1,4 @@
-# First_Game_JS
+# First_Game_JS Kill VIRUS
 
 <h3>The game was created by Mr. Michel BUFFA and developed by me (Mr. Hassane LAAMIRI).</h3>
 
