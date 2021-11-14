@@ -12,4 +12,5 @@
 - Make the player fire bullets to destroy virus. (YOU CAN SHOT BY SPACE BUTTON)
 - Add background to the canvas.
 - Add some design to the game to make it appear better
+- Change the declaration of the player to class because sometimes the red balls don't appear.
 - etc..
